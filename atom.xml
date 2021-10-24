@@ -6,7 +6,7 @@
   <link href="https://zhxliao.github.io/atom.xml" rel="self"/>
   
   <link href="https://zhxliao.github.io/"/>
-  <updated>2021-10-21T11:57:53.345Z</updated>
+  <updated>2021-10-24T09:10:47.834Z</updated>
   <id>https://zhxliao.github.io/</id>
   
   <author>
@@ -17,11 +17,45 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>管理课程总结</title>
+    <link href="https://zhxliao.github.io/2021/10/24/0995_20211024_manlearn/"/>
+    <id>https://zhxliao.github.io/2021/10/24/0995_20211024_manlearn/</id>
+    <published>2021-10-24T15:19:36.000Z</published>
+    <updated>2021-10-24T09:10:47.834Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;周四与周五，公司组织了两天管理课程，将各项知识点结合起来画成一张导图，用作简单复习。对于我而言，也有一定的借鉴意义，所以一定要好好学习到手。&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="杂谈" scheme="https://zhxliao.github.io/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="管理" scheme="https://zhxliao.github.io/tags/%E7%AE%A1%E7%90%86/"/>
+    
+    <category term="目标" scheme="https://zhxliao.github.io/tags/%E7%9B%AE%E6%A0%87/"/>
+    
+    <category term="激励" scheme="https://zhxliao.github.io/tags/%E6%BF%80%E5%8A%B1/"/>
+    
+    <category term="团队" scheme="https://zhxliao.github.io/tags/%E5%9B%A2%E9%98%9F/"/>
+    
+    <category term="辅助" scheme="https://zhxliao.github.io/tags/%E8%BE%85%E5%8A%A9/"/>
+    
+  </entry>
+  
+  <entry>
     <title>管理工具</title>
     <link href="https://zhxliao.github.io/2021/10/21/0996_20211021_manlearn/"/>
     <id>https://zhxliao.github.io/2021/10/21/0996_20211021_manlearn/</id>
     <published>2021-10-21T15:19:36.000Z</published>
-    <updated>2021-10-21T11:57:53.345Z</updated>
+    <updated>2021-10-24T06:27:54.070Z</updated>
     
     
       
@@ -67,9 +101,9 @@
     <category term="杂谈" scheme="https://zhxliao.github.io/categories/%E6%9D%82%E8%B0%88/"/>
     
     
-    <category term="鲁迅" scheme="https://zhxliao.github.io/tags/%E9%B2%81%E8%BF%85/"/>
-    
     <category term="HEXO" scheme="https://zhxliao.github.io/tags/HEXO/"/>
+    
+    <category term="鲁迅" scheme="https://zhxliao.github.io/tags/%E9%B2%81%E8%BF%85/"/>
     
     <category term="Notion" scheme="https://zhxliao.github.io/tags/Notion/"/>
     
