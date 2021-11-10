@@ -6,7 +6,7 @@
   <link href="https://zhxliao.github.io/atom.xml" rel="self"/>
   
   <link href="https://zhxliao.github.io/"/>
-  <updated>2021-10-24T09:10:47.834Z</updated>
+  <updated>2021-11-10T13:41:35.739Z</updated>
   <id>https://zhxliao.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2021年11月理财总结</title>
+    <link href="https://zhxliao.github.io/2021/11/10/0994_20211110_ecosumup/"/>
+    <id>https://zhxliao.github.io/2021/11/10/0994_20211110_ecosumup/</id>
+    <published>2021-11-09T16:00:00.000Z</published>
+    <updated>2021-11-10T13:41:35.739Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;01-攒钱进度&quot;&gt;&lt;a href=&quot;#01-攒钱进度&quot; class=&quot;headerlink&quot; title=&quot;01 攒钱进度&quot;&gt;&lt;/a&gt;01 攒钱进度&lt;/h2&gt;&lt;p&gt;说来真的挺好笑，对比了一下，这个月攒下的钱只有 2000</summary>
+        
+      
+    
+    
+    
+    <category term="理财" scheme="https://zhxliao.github.io/categories/%E7%90%86%E8%B4%A2/"/>
+    
+    
+    <category term="复盘" scheme="https://zhxliao.github.io/tags/%E5%A4%8D%E7%9B%98/"/>
+    
+  </entry>
   
   <entry>
     <title>管理课程总结</title>
@@ -101,9 +126,9 @@
     <category term="杂谈" scheme="https://zhxliao.github.io/categories/%E6%9D%82%E8%B0%88/"/>
     
     
-    <category term="HEXO" scheme="https://zhxliao.github.io/tags/HEXO/"/>
-    
     <category term="鲁迅" scheme="https://zhxliao.github.io/tags/%E9%B2%81%E8%BF%85/"/>
+    
+    <category term="HEXO" scheme="https://zhxliao.github.io/tags/HEXO/"/>
     
     <category term="Notion" scheme="https://zhxliao.github.io/tags/Notion/"/>
     
